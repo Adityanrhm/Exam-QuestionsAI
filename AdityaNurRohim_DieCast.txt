@@ -1,0 +1,12 @@
+Query First = select count(distinct customerNumber) as customers, count(distinct city) as City, count(distinct country) as Countries from customers;
+
+Query Second = select count(distinct e.employeeNumber) as Employees, count(distinct o.officeCode) as Offices, count(distinct o.country) as Country, count(distinct p.productCode) as Products, sum(distinct p.quantityInStock) as StockProducts, count(distinct p.productVendor) as Vendors from employees e join offices o on e.officeCode = o.officeCode join products p;
+
+Query Third = select distinct p.productLine as productLine, min(p.buyPrice) as minPrice, max(p.buyPrice) as maxPrice from products p join productlines pl on p.productLine = pl.productLine where p.productLine = pl.productLine group by pl.productLine;
+
+
+Query Fourth = select c.customerName, c.city, c.country, sum(py.amount) as total from customers c join payments py on c.customerNumber = py.customerNumber group by py.customerNumber
+ order by total desc limit 10;
+
+Query Fifth = select c.customerName, p.productName, od.quantityOrdered, od.priceEach from customers c join orders o on c.customerNumber = o.customerNumber join orderdetails od on o
+.orderNumber = od.orderNumber join products p on od.productCode = p.productCode join payments py on c.customerNumber = py.customerNumber where py.paymentDate = '2003-06-05' limit 4;
