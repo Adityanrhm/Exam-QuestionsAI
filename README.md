@@ -40,6 +40,21 @@ Contain all of my answer from https://github.com/LintangWisesa/Ujian_AnalyticsVi
 ![image](https://github.com/user-attachments/assets/39b170ed-65c0-45d2-a54a-da2c496d4f11)
 
 
+# Preview Soal 3 - Indonesia Covid-19 Maps 🌏(Untuk review lengkap bisa buka WebScrapping-covid.ipynb)
+
+![image](https://github.com/user-attachments/assets/1ba10b05-74b9-4345-9cdc-453ae1d2e313)
+
+
+![image](https://github.com/user-attachments/assets/7da354f6-d613-497b-b51f-4b198fa3c366)
+
+
+![image](https://github.com/user-attachments/assets/39c8bf3e-27af-4626-afa4-b1f97440a930)
+
+
+
+
+
+
 
 
 
