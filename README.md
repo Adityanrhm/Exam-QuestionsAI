@@ -3,4 +3,9 @@ Contain all of my answer from https://github.com/LintangWisesa/Ujian_AnalyticsVi
 
 
 # Preview Soal 1 - Distributor Die Cast 
-![image](https://github.com/user-attachments/assets/c80cf492-6483-4d26-b66e-9ecdd645a3ee)
+![image](https://github.com/user-attachments/assets/e629f52c-2623-42b7-a8b5-fac06926a057)
+
+
+![image](https://github.com/user-attachments/assets/ae58af9e-b347-4ac8-ac45-3833eb44265e)
+
+
