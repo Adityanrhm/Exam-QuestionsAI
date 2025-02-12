@@ -20,7 +20,7 @@ Contain all of my answer from https://github.com/LintangWisesa/Ujian_AnalyticsVi
 
 
 
-# Preview Soal 2 - World Happiness 😄(Untuk review lengkap bisa buka WorldHappiness)
+# Preview Soal 2 - World Happiness 😄(Untuk review lengkap bisa buka WorldHappiness.ipynb)
 
 ![image](https://github.com/user-attachments/assets/7b4beeea-a3ea-4e3a-947c-b7b923d27a27)
 
